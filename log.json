@@ -1,3 +1,16 @@
 {
-  "claims": []
+  "claims": [
+    {
+      "name": "derek",
+      "bundle": {
+        "id": "BL-24WE-HQZB-344P-SYE8",
+        "sig": "oZuMXtuW-yTbr70w1rCnK2I2XhtNHGy-ibjOc_xJjaE",
+        "enc": "js7uFjCRaUGfxqNyvFvEMi0d9hB5X51lpBc-oxI9pmk",
+        "encSig": "IXrDK9E1tjw7PWCIlm-Q-bZyQojjbxmgD9FHxH0m5FG1e-LErZYxM0xwQqtrvXj9DX66AvPdQ3cFMqzjJLHuCw"
+      },
+      "ts": 1789703316248,
+      "nonce": 21986374,
+      "sig": "HmbzD_axPvbGQ0mH9AmhVbPj08tBRci5YorNcw3SE_kil_TYnHUr17d-cruHuZHlPn9N6oxgmLs5sAj4z4f8CQ"
+    }
+  ]
 }
